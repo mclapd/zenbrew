@@ -4,7 +4,7 @@ import Seperator from "./Seperator";
 
 const OpenningHours = () => {
   return (
-    <section className="flex bg-primary h-[60vh] xl:h-[80vh]">
+    <section id="contact" className="flex bg-primary h-[60vh] xl:h-[80vh]">
       <div className="hidden relative xl:flex flex-1 justify-center items-center">
         <div className="w-full h-full absolute z-40 top-0 bg-black/60"></div>
         <Image
